@@ -52,6 +52,10 @@ Once the environment is set up and configured, run the server from your terminal
 
 ```bash
 ai-assistant-hub
+
+or
+
+python3 -m ai_assistant_hub.server.main
 ```
 
 The server will start and wait for a client to connect. You should see output like:
