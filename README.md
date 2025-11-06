@@ -120,13 +120,6 @@ The project is structured to be modular and extensible.
 2.  Define a new tool in `ai_assistant_hub/tools/` that uses the adapter.
 3.  Enable your new tool and provide its configuration in your `.env` file.
 
-### Testing
-
-The project includes a test suite using `pytest`. Run the tests with:
-
-```bash
-pytest
-```
 
 ---
 
